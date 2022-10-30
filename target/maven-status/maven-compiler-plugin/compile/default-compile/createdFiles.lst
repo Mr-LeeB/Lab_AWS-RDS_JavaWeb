@@ -1,0 +1,5 @@
+model\DataCovidViewModel.class
+DAO\DataCovidDAO.class
+controller\GetDataServlet.class
+controller\Home.class
+utils\DynamoDBContext.class
